@@ -186,7 +186,7 @@ section.success {
 
 section.success2 {
     color: #fff;
-    background: #fff;
+    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
