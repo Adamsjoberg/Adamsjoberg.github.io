@@ -270,7 +270,7 @@ section.success2 {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #fff;
+    color: #{{ site.color.primary }};
     background: #fff;
 }
 
