@@ -269,9 +269,9 @@ section.success2 {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    border: solid 2px #fff;
+    border: solid 2px #5A1022;
     color: #{{ site.color.primary }};
-    background: #fff;
+    background: #5A1022;
 }
 
 .floating-label-form-group {
