@@ -186,7 +186,7 @@ section.success {
 
 section.success2 {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {
@@ -260,7 +260,7 @@ section.success2 {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+    color: #5A1022;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
