@@ -136,7 +136,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-        background-color: #{{ site.color.primary }}
+        color: #{{ site.color.primary }}
     }
 
     .navbar-fixed-top.navbar-shrink {
