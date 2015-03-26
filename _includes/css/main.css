@@ -85,6 +85,14 @@ header {
     background-image: url("img/portfolio/bg_image.jpg");
 }
 
+header {
+  background: url("img/portfolio/bg_image.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
