@@ -83,10 +83,6 @@ header {
     text-align: center;
     color: #fff;
     background-image: url("img/portfolio/bg_image.jpg");
-    position: absolute;
-       top: 40px; /* Header Height */
-       bottom: 20px; /* Footer Height */
-       width: 100%;
 }
 
 header .container {
