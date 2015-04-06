@@ -83,6 +83,7 @@ header {
     text-align: center;
     color: #fff;
     background-image: url("img/portfolio/bg_image.jpg");
+    background-size: cover;
 }
 
 header .container {
