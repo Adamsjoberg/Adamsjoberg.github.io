@@ -740,6 +740,7 @@ footer ul.quicklinks {
     text-transform: none;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 40px;
+    list-style-type: none;
 }
 
 ul.social-buttons {
