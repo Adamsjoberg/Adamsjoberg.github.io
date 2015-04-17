@@ -262,6 +262,10 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+#viewtext {
+  color: #fff;
+}
+
 header {
     text-align: center;
     color: #fff;
