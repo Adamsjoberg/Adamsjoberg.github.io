@@ -5,9 +5,8 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: readyapp.jpg
-img: readyapp.jpg
 thumbnail: readyapp_thumb.png
-alt: image-alt
+alt: readyapp.jpg
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
