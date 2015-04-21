@@ -4,7 +4,7 @@ subtitle: Android application
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: view_test.png
 thumbnail: view_thumb.png
 alt: image-alt
 project-date: Since February 2015
