@@ -57,6 +57,9 @@ h6 {
     font-weight: 700;
 }
 
+.info-title {
+  text-align: left;
+}
 .img-centered {
     margin: 0 auto;
 }
