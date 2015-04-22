@@ -339,7 +339,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    margin-bottom: 50px;
+    margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 16px;
@@ -347,6 +347,9 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
+.degree-text{
+  margin-bottom: 25px;
+}
 @media(min-width:768px) {
     section {
         padding: 150px 0;
