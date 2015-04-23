@@ -659,6 +659,9 @@ section h3.section-subheading {
 
 .boxed {
   border:5px green;
+  opacity: 0.5;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .team-member {
