@@ -638,6 +638,18 @@ section h3.section-subheading {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+.team
+{
+      text-align: center;
+      color: #fff;
+      background-attachment: fixed;
+      background-image: url(../img/bg_image.jpg);
+      background-position: center center;
+      background-repeat: none;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
 }
 
 .team-member {
