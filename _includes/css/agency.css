@@ -348,8 +348,8 @@ section h3.section-subheading {
 }
 
 .degree-text{
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 @media(min-width:768px) {
     section {
