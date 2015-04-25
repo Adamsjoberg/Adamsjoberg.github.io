@@ -511,7 +511,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #222222;
 }
 
 .timeline>li .timeline-image h4 {
